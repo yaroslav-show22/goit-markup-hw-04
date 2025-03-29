@@ -423,8 +423,10 @@ a {
 }
 
 .footer-container {
+  max-width: 1158px;
   display: flex;
   align-items: baseline;
+  margin: 0 auto;
 }
 
 .footer-logo-text {
